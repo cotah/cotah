@@ -1,6 +1,6 @@
-<p align="center"> Hi! :wave: I'm Henrique Pasquetto, an aspiring software developer based in Ireland. <br> I'm deeply committed to my studies and am growing more passionate about programming every day. <br> I speak Portuguese, English, Italian, Spanish, and Arabic, and I :heart: tackling challenging problems. <br> I'm always eager to learn through hands-on experience and advance in the tech industry.
+<p align="center"> Hi! :wave: I'm Henrique Pasquetto, an aspiring software developer based in Ireland. <br> I'm deeply committed to my studies and am growing more passionate about programming every day. <br> I speak Portuguese, English, Italian, Spanish, and Arabic, and I :heart: tackling challenging problems. <br> I'm always eager to learn through hands-on experience and advance in the tech industry.</p>
 
-Let's collaborate and build something amazing together!</p>&nbsp;
+<p align="center">Let's collaborate and build something amazing together!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
