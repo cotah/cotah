@@ -2,12 +2,6 @@
 
 <p align="center">Let's collaborate and build something amazing together!</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.cotahapp.com?user=cotah&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-cotah.vercel.app/api/top-langs/?username=cotah&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
-
 
 ## My Skills
 
